@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DG">
+  <rect width="64" height="64" rx="14" fill="#0b0d10"/>
+  <rect x=".75" y=".75" width="62.5" height="62.5" rx="13.25" fill="none" stroke="#7eb8c9" stroke-opacity=".45"/>
+  <text x="32" y="42" text-anchor="middle" font-family="Liberation Sans, Arial, sans-serif" font-weight="700" fill="#e8eaed">DG</text>
+</svg>
